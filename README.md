@@ -50,7 +50,7 @@ Once the libraries are installed, clone or download this repository to your loca
 ### Usage
 To use this repository, open the Jupyter notebook file `Sentiment_Analysis.ipynb` in your local machine. Follow the instructions in the notebook to scrape reviews for a specific product and perform sentiment analysis on the reviews.
 
-## Project Deatials
+## Project Detials
 The project is divided into the following sections:
 
 ### Data Collection
@@ -74,7 +74,7 @@ In this section, we will preprocess the data by performing the following tasks:
 - Upsampling minority classes
 - Stemming the tokens
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis (EDA)
 In this section we will try to explore the data. `Wordcloud` is used to visualize the most frequently used words associated with each category of reviews. `CountVectorizer` feature of sklearn is used to plot the top 20 most frequent bigrams.
 
 ### Sentiment Analysis
